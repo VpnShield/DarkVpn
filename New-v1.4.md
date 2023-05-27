@@ -17,7 +17,7 @@
 "Cancellable": "false",
 "MessageID": "1",
 "ShowTime": "999",
-"Button": " مشاهد اخبار لحظه ای ",
+"Button": " مشاهده اخبار لحظه ای ",
 "ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
